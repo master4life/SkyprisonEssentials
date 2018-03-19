@@ -1,0 +1,14 @@
+name: SkyPrisonEssentials
+version: 0.0.7
+main: de.kiyan.skyprison.Main
+description: Signfilter, ChatFilter, Disable items, SpongeSearch, Parkour, Setpotions, QuickMod
+depend: [ProtocolLib]
+softdepend: [LeaderHeads]
+
+commands:
+  signfilter:
+  chatfilter:
+  disablecraft:
+  sponge:
+  setpotion:
+  quickmod:

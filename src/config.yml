@@ -1,0 +1,70 @@
+# Plugin made by Kiyan for SkyPrison
+#
+# Item ID's Of Items You Want To Block
+# Example: [145, 154, 54]
+# Words are banned on signs.
+Items:
+- 154
+- 145
+- 310
+- 311
+- 312
+- 313
+- 267
+- 276
+- 306
+- 307
+- 308
+- 309
+Words:
+- suck
+- fuck
+- nigger
+- nigga
+- wtf
+- fucker
+- poop
+- nazi
+- fucks
+- sex
+- retard
+- bullshit
+- fucking
+- shit
+- sh!t
+- rape
+- cock
+- fuucking
+- dildo
+- bitch
+- fag
+- slut
+- sucker
+- sucking
+- assfucker
+# Messages
+Message: '&7&lERROR: &4You cannot craft this item. &f&oCheck &b&nhttp://store.skyprison.net&f&o
+  or &b/tokens&f&o to see if it''s for sale there.'
+WarnMessage: '&eBad words on signs are &cforbidden&e.'
+ChatPrefix: '&e[§bChatFilter§e]'
+SignPrefix: '&e[§dSignFilter§e]'
+DisablePrefix: '&e[§7DisableCraft§e]'
+SignFirstLine: '&b§lSignFilter'
+SignSecondLine: '&lDont Curse!'
+# Parkour
+Parkour:
+ ParkourPrefix: '[§9Parkour]'
+# Sponge
+Sponge:
+ MaxSponge: 20
+ SpongePrefix: '&c[&6Sponge search&c]&r'
+ Reward: 20
+ delayNext: 1
+# Jumping Pots
+Potions:
+ PotionPrefix: '&7[&bJump&7Potion&7]'
+ JumpMin: 0.30
+ JumpMax: 0.50
+QuickMod:
+ QuickmodPrefix: '&7[&eMod&7]'
+ QuickmodDisplay: '&7&l> &4STAFF QUICKOPTIONS'
